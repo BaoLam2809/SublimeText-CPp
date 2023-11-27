@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+// Code By ngkhacbaolam2809
+//Enjoy =>>
+
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef unsigned long long ull;
+typedef double db;
+typedef long double ld;
+typedef vector<long long> vct;
+typedef string str;
+typedef pair<long long, long long> pr;
+typedef set<long long> st;
+typedef map<long long ,long long> mp;
+#define endl '\n';
+#define int64_t so;
+
+
+
+/*bool check(){
+    
+}*/
+
+void solve(){
+    
+}
+
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    freopen("test.INP","r",stdin);
+    freopen("test.OUT","w",stdout);
+
+    solve();
+
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>asdf</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope> 
+</snippet>
